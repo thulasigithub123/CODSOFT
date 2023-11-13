@@ -1,4 +1,3 @@
 # codsoft
 
-
-![Alt text](image.png)
+![tree](image-1.png)
